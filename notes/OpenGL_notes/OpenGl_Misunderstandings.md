@@ -1,3 +1,4 @@
+# OpenGl_Misunderstandings
 A **graphics API specification** — a set of **rules and functions** that define how to communicate with the GPU for rendering. It doesn't create windows, handle inputs, or provide GUI tools.
 
 There are many misunderstandings regarding OpenGL. Some of them are mentioned below:
@@ -13,3 +14,5 @@ And the specifications mentioned in the OpenGL should be followed by the library
 
 2) GLAD(OpenGL Loader Generator)
 	GLAD is an **OpenGL loader library**. Its purpose is to load OpenGL function pointers at runtime. Modern OpenGL versions (3.0+) are designed in a way that many functions are not directly available through the standard library. Instead, they are exposed as function pointers that need to be queried from the graphics driver.
+
+
