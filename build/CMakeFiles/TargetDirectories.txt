@@ -1,0 +1,3 @@
+/home/my/theprogrammingthingy/SpinningCube_OpenGL/build/CMakeFiles/my_opengl_app.dir
+/home/my/theprogrammingthingy/SpinningCube_OpenGL/build/CMakeFiles/edit_cache.dir
+/home/my/theprogrammingthingy/SpinningCube_OpenGL/build/CMakeFiles/rebuild_cache.dir
